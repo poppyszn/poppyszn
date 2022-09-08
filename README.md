@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning javascript and i wish to learn python after
 - 💞️ I’m looking to collaborate on whatever will help me gain experience
-- 📫 How to reach me okpor.david@outlook.com
+- 📫 How to reach me poppyszn.dev@gmail.com
 
 <!---
 poppyszn/poppyszn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
