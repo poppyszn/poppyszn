@@ -37,5 +37,5 @@ Nothing at the moment, but i have something cooking!
 
 ## 📊 My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=poppyszn&show_icons=true&theme=vue)](https://github.com/poppyszn)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=poppyszn&show_icons=true&theme=dark)](https://github.com/poppyszn)
 
