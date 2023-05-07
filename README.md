@@ -17,17 +17,17 @@ Nothing at the moment, but i have something cooking!
 
 [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - JavaScript is a high-level programming language used for creating interactive and dynamic web content.
 
-## 💬 Ask me about
+<!-- ## 💬 Ask me about
 
 - Responsive Web Design - I have experience designing websites that look great on all devices.
 - CSS Animations - I love incorporating animations into my designs to add a touch of fun and interactivity.
-- Accessibility - I strive to make my websites accessible to all users, and can offer tips and best practices for achieving this.
+- Accessibility - I strive to make my websites accessible to all users, and can offer tips and best practices for achieving this. -->
 
-## 🎨 My interests
+<!-- ## 🎨 My interests
 
 - User Experience (UX) Design
 - Web Performance Optimization
-- Design Systems
+- Design Systems -->
 
 ## 🎮 My hobbies
 
