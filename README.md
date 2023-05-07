@@ -2,6 +2,9 @@
 
 I'm a Front-End Developer with a passion for building visually stunning and interactive websites.
 
+<a href="https://www.example.com/" style="padding: 10px 20px; background-color: #008CBA; color: white; border-radius: 5px; text-decoration: none;">Click me to go to the link!</a>
+
+
 ## 📫 How to reach me
 
 - Email: [poppyszn.dev@gmail.com](mailto:poppyszn.dev@gmail.com)
