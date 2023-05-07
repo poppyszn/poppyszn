@@ -5,16 +5,17 @@ I'm a Front-End Developer with a passion for building visually stunning and inte
 ## 📫 How to reach me
 
 - Email: [poppyszn.dev@gmail.com](mailto:poppyszn.dev@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/precious-okpor-5b74b2225/)
+- LinkedIn: [Precious Okpor](https://www.linkedin.com/in/precious-okpor-5b74b2225/)
 - Twitter: [Poppy_D_Free](https://twitter.com/Poppy_D_Free)
 
 ## 🔭 I’m currently working on
 
-[Project Name](https://github.com/yourusername/projectname) - [Short description of your current project, such as the technologies and design patterns you're implementing]
+<!-- [Project Name](https://github.com/yourusername/projectname) - [Short description of your current project, such as the technologies and design patterns you're implementing] -->
+Nothing at the moment, but i have something cooking!
 
 ## 🌱 I’m currently learning
 
-[Javascript](https://www.example.com/) - [Short description of what you're learning and how you plan to incorporate it into your work]
+[Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - [JavaScript is a high-level programming language used for creating interactive and dynamic web content.]
 
 ## 💬 Ask me about
 
