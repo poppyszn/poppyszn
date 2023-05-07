@@ -37,5 +37,7 @@ Nothing at the moment, but i have something cooking!
 
 ## 📊 My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=poppyszn&show_icons=true&theme=react)](https://github.com/poppyszn)
+![GitHub Stats](https://raw.githubusercontent.com/poppyszn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Lang Stats](https://raw.githubusercontent.com/poppyszn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+##### [Get your stats here!](https://github.com/jstrieb/github-stats)
