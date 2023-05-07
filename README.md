@@ -15,7 +15,7 @@ Nothing at the moment, but i have something cooking!
 
 ## 🌱 I’m currently learning
 
-[Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - [JavaScript is a high-level programming language used for creating interactive and dynamic web content.]
+[Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - JavaScript is a high-level programming language used for creating interactive and dynamic web content.
 
 ## 💬 Ask me about
 
