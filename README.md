@@ -19,7 +19,7 @@ Nothing at the moment, but i have something cooking!
 
 ## 💬 Ask me about
 
-- Responsive Web Design - I have extensive experience designing websites that look great on all devices.
+- Responsive Web Design - I have experience designing websites that look great on all devices.
 - CSS Animations - I love incorporating animations into my designs to add a touch of fun and interactivity.
 - Accessibility - I strive to make my websites accessible to all users, and can offer tips and best practices for achieving this.
 
