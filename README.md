@@ -1,6 +1,6 @@
-# Hey there, I'm poppyszn! 👋
+# Hey there, I'm Precious! 👋
 
-I'm a Front-End Developer with a passion for building visually stunning and interactive websites.
+<!-- I'm a Front-End Developer with a passion for building visually stunning and interactive websites. -->
 
 ## 📫 How to reach me
 
