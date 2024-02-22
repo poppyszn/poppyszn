@@ -1,43 +1,53 @@
-# Hey there, I'm Precious! 👋
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpoppyszn&label=Visitors&labelColor=%23697689&countColor=%23555555" />
 
-<!-- I'm a Front-End Developer with a passion for building visually stunning and interactive websites. -->
+<img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&right=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=$whoami;+I'm+Precious+Okpor!+🤩;" />
 
-## 📫 How to reach me
+<h3 align="center">A Devops Engineer from Nigeria </h3>
 
-- Email: [poppyszn.dev@gmail.com](mailto:poppyszn.dev@gmail.com)
-- LinkedIn: [Precious Okpor](https://www.linkedin.com/in/precious-okpor-5b74b2225/)
-- Twitter: [Poppy_D_Free](https://twitter.com/Poppy_D_Free)
+<br/>
 
-## 🔭 I’m currently working on
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Datadog monitoring setup with Terraform**
+ 
+ 🌱 I’m currently learning **Terraform, Openshift, AWS**
 
-<!-- [Project Name](https://github.com/yourusername/projectname) - [Short description of your current project, such as the technologies and design patterns you're implementing] -->
-Nothing at the moment, but i have something cooking!
+⚡ Fun fact **The yo-yo was originally a weapon used in the Philippine jungle. It was made of two rocks attached by a long rope and could be swung around to hit enemies or prey.**
 
-## 🌱 I’m currently learning
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:poppyszn.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/precious-o-5b74b2225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/poppyszn" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-[Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - JavaScript is a high-level programming language used for creating interactive and dynamic web content.
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,amazonwebservices,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,docker,nginx" /><br>
+</div>
 
-<!-- ## 💬 Ask me about
+<br/>
 
-- Responsive Web Design - I have experience designing websites that look great on all devices.
-- CSS Animations - I love incorporating animations into my designs to add a touch of fun and interactivity.
-- Accessibility - I strive to make my websites accessible to all users, and can offer tips and best practices for achieving this. -->
+<hr/>
 
-<!-- ## 🎨 My interests
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=poppyszn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=poppyszn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=poppyszn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-- User Experience (UX) Design
-- Web Performance Optimization
-- Design Systems -->
-
-## 🎮 My hobbies
-
-- Gaming
-- Content Creation
-- Graphic Design
-
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://raw.githubusercontent.com/poppyszn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Lang Stats](https://raw.githubusercontent.com/poppyszn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-##### [Get your stats here!](https://github.com/jstrieb/github-stats)
+<br/><br/>
