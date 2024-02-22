@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Terraform, Openshift, AWS**
 
-⚡ Fun fact **The yo-yo was originally a weapon used in the Philippine jungle. It was made of two rocks attached by a long rope and could be swung around to hit enemies or prey.**
+🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
  </div>
  
