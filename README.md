@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Datadog monitoring setup with Terraform**
+ 🔭 I’m currently working on **Nothing**
  
- 🌱 I’m currently learning **Terraform, Openshift, AWS**
+ 🌱 I’m currently learning **Prometheus**
 
 🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,amazonwebservices,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,docker,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,docker,nginx,prometheus" /><br>
 </div>
 
 <br/>
