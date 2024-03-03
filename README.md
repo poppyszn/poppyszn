@@ -20,6 +20,9 @@
   <a href="mailto:poppyszn.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://hub.docker.com/repositories/preciousokpor">
+    <img src="https://img.shields.io/badge/Docker_Hub-0077B5?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/precious-o-5b74b2225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
