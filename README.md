@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,amazonwebservices,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,docker,nginx,prometheus" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,docker,nginx,prometheus,jenkins" /><br>
 </div>
 
 <br/>
