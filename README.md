@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Nothing**
+ 🔭 I’m currently working on **Docker NodeJS Dev Environment**
  
- 🌱 I’m currently learning **Prometheus**
+ 🌱 I’m currently learning **NodeJS**
 
 🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
