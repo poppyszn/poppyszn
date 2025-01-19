@@ -3,7 +3,7 @@
 <img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&right=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=$whoami;+I'm+Precious+Okpor!+🤩;" />
 
 <h3 align="center">A Passionate Devops Engineer from Nigeria </h3>
-
+ 
 <br/>
 
 <div align="center">
