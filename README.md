@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **DevOps Beginners to Advanced Course**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Terraform**
 
 🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
