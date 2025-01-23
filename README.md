@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **DevOps Beginners to Advanced Course**
  
- 🌱 I’m currently learning **Terraform**
+ 🌱 I’m currently learning **Ansible**
 
 🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,amazonwebservices,kubernetes,bash,linux,python" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,docker,nginx,prometheus,jenkins,redhat,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,ansible,docker,nginx,prometheus,jenkins,redhat,maven" /><br>
 </div>
 
 <br/>
