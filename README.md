@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **DevOps Beginners to Advanced Course**
  
- 🌱 I’m currently learning **Ansible**
+ 🌱 I’m currently learning **Containerization**
 
 🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
