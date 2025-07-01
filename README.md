@@ -1,6 +1,6 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpoppyszn&label=Visitors&labelColor=%23697689&countColor=%23555555" />
 
-<img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&right=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=$whoami;+I'm+Precious+Okpor!+🤩;" />
+<img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&right=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=$whoami;+I+am+Precious+Okpor.+Hello!;" />
 
 <h3 align="center">A Passionate Devops Engineer from Nigeria </h3>
 <div align="center">
@@ -10,9 +10,9 @@ Cloud Whisperer ☁️, Git Guru 🧙‍♂️, Automation Magician 🎩, Contai
 
 <div align="center">
  
- 🔭 I’m currently working on **DevOps Beginners to Advanced Course**
+ <!--🔭 I’m currently working on **DevOps Beginners to Advanced Course**
  
- 🌱 I’m currently learning **Kubernetes**
+ 🌱 I’m currently learning **Kubernetes**-->
 
 🎈 Hobbies **Video Editing 📽️ & Gaming 🎮**
 
