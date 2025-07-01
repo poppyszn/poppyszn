@@ -2,10 +2,28 @@
 
 <img align="center" width="20000px" src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&right=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=$whoami;+I+am+Precious+Okpor.+Hello!;" />
 
-<h3 align="center">A Passionate Devops Engineer from Nigeria </h3>
 <div align="center">
 Cloud Whisperer ☁️, Git Guru 🧙‍♂️, Automation Magician 🎩, Container Ninja 🥋, Monitoring Maestro 🎶
 </div>
+<br/>
+<h3 align="center">
+👋 Hi, I’m Precious, a Cloud and DevOps Engineer dedicated to building secure, scalable, and production-ready infrastructure on AWS.
+</h3>
+<div align="center">
+I specialise in Infrastructure as Code, automation, and cloud-native design, assisting teams in shipping faster and operating with confidence. I have delivered reliable systems across multiple projects using modern DevOps practices and tools.
+</div>
+<br/>
+
+<h2>🚀 What I Do</h2>
+
+I spend most of my time designing and managing AWS infrastructure with a strong focus on **security**, **cost efficiency**, and **automation**. Here's what I've been up to lately:
+
+- 🔐 Applied **security best practices** and hardening guidelines across EC2-based workloads  
+- 💸 Significantly reduced AWS costs by implementing **Savings Plans** and rightsizing instances  
+- 🤖 Automated deployment pipelines from GitHub for both **monolithic** and **microservices**  
+- 📊 Rolled out a full observability stack using **Grafana**, **Prometheus**, **Uptime Kuma**, and **Gotify** to enhance visibility, alerting, and uptime  
+- 🌐 Deployed and configured **AWS ALB**, **WAF**, and **Route 53** for secure traffic management and DNS routing  
+- 💾 Automated multiple **backup and restoration tasks**, removing manual overhead and improving recovery readiness
 <br/>
 
 <div align="center">
