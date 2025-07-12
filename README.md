@@ -46,7 +46,7 @@ I spend most of my time designing and managing AWS infrastructure with a strong 
   <a href="https://www.linkedin.com/in/precious-o-5b74b2225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/poppyszn" target="_blank">
+  <a href="https://coral-swim-4d6.notion.site/Hey-there-I-m-Precious-226aef2871cd8037afbfc00bf5c861a5" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
