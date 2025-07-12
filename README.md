@@ -57,7 +57,7 @@ I spend most of my time designing and managing AWS infrastructure with a strong 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,amazonwebservices,kubernetes,bash,linux,python" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,terraform,ansible,docker,nginx,prometheus,jenkins,redhat,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,terraform,ansible,docker,nginx,prometheus,jenkins,redhat,maven" /><br>
 </div>
 
 <br/>
