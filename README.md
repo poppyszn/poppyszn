@@ -56,8 +56,8 @@ I spend most of my time designing and managing AWS infrastructure with a strong 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,amazonwebservices,kubernetes,bash,linux,python" />
-    <img src="https://skillicons.dev/icons?i=python,mysql,terraform,ansible,docker,nginx,prometheus,jenkins,redhat,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,amazonwebservices,redis,kubernetes,bash,linux,python,go,md" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,terraform,ansible,docker,nginx,prometheus,jenkins,redhat,maven,grafana,postgres" /><br>
 </div>
 
 <br/>
